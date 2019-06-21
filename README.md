@@ -34,3 +34,4 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Contributing
 Anyone who find something interesting about dhall-lang are welcome to submit a pull request to add it to our list!
+Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull request.
