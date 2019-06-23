@@ -6,6 +6,8 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ### Contents
 - [Binding](#binding)
+- [Integration](#integration)
+- [Output Formats](##output-formats)
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Miscellaneous](#miscellaneous)
@@ -13,15 +15,31 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 ## Binding
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell)
 - [dhall-eta](https://github.com/eta-lang/dhall-eta) - A eta wrapper of dhall-haskell with the goal of provide a friendly java api over dhall
-- [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
+- [dhall-clj](https://github.com/f-f/dhall-clj) - Dhall to and from Clojure
+- [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript)
+- [dhall-rust](https://github.com/Nadrieril/dhall-rust)
 - [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby)
 - [dhall-python](https://github.com/SupraSummus/dhall-python)
+
+## Integration
+- [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
+- [dhall-to-etlas](https://github.com/eta-lang/dhall-to-etlas)
+
+## Output Formats
+- [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json)
+- [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json)
+- [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal)
+- [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
+- [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash)
 
 ## Libraries
 - [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall
 - [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [dhall-kong](https://github.com/RyanSiu1995/dhall-kong)
 - [dhall-terraform](https://github.com/blast-hardcheese/dhall-terraform) - Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.
+- [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall
+- [dada](https://github.com/sellout/dada) - Recursion schemes
+- [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
