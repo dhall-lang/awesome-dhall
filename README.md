@@ -1,6 +1,6 @@
 # Awesome Dhall-lang
 
-![Dhall Logo](img/dhall-logo.svg)
+![Dhall Logo](img/dhall-logo.png)
 
 A curated list of awesome dhall-lang binding, libraries and anything related to dhall-lang!
 
