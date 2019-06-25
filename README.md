@@ -1,6 +1,15 @@
 # Awesome Dhall-lang
 
-![Dhall Logo](img/dhall-logo.png)
+<div align="center">
+    <div>
+        <img width="500" src="img/dhall-logo.png" alt="dhall-logo">
+    </div>
+    <br>
+    <br>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge-flat2.svg" alt="awesome">
+    </a>
+</div>
 
 A curated list of awesome dhall-lang binding, libraries and anything related to dhall-lang!
 
