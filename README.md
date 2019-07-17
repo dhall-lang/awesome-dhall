@@ -57,8 +57,8 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 ## Miscellaneous
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall
 - [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code
-- [atom-lanagugae-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom
+- [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom
 
 ## Contributing
-Anyone who find something interesting about dhall-lang are welcome to submit a pull request to add it to our list!
+Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list!
 Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull request.
