@@ -49,6 +49,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall
 - [dada](https://github.com/sellout/dada) - Recursion schemes
 - [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions
+- [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions 
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
