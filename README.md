@@ -51,6 +51,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions 
 - [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops
+- [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
