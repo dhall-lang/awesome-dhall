@@ -50,6 +50,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dada](https://github.com/sellout/dada) - Recursion schemes
 - [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions 
+- [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
