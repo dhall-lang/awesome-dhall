@@ -40,6 +40,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal)
 - [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
 - [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash)
+- [dhall-security-txt](https://github.com/coralogix/dhall-security-txt)
 
 ## Libraries
 - [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall
