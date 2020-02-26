@@ -53,6 +53,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions 
 - [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops
 - [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator
+- [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
