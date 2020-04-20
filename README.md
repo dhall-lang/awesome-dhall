@@ -1,30 +1,25 @@
-# Awesome Dhall-lang
+# Awesome Dhall-Lang [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
     <div>
         <img width="500" src="img/dhall-logo.png" alt="dhall-logo">
     </div>
-    <br>
-    <br>
-    <a href="https://awesome.re">
-        <img src="https://awesome.re/badge-flat2.svg" alt="awesome">
-    </a>
 </div>
 
 A curated list of awesome dhall-lang binding, libraries and anything related to dhall-lang!
 
-### Contents
+## Contents
 - [Binding](#binding)
 - [Integration](#integration)
-- [Output Formats](##output-formats)
+- [Output Formats](#output-formats)
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Miscellaneous](#miscellaneous)
 
 ## Binding
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell)
-- [dhall-eta](https://github.com/eta-lang/dhall-eta) - A eta wrapper of dhall-haskell with the goal of provide a friendly java api over dhall
-- [dhall-clj](https://github.com/f-f/dhall-clj) - Dhall to and from Clojure
+- [dhall-eta](https://github.com/eta-lang/dhall-eta) - A eta wrapper of dhall-haskell with the goal of provide a friendly java api over dhall.
+- [dhall-clj](https://github.com/f-f/dhall-clj) - Dhall to and from Clojure.
 - [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript)
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust)
 - [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby)
@@ -43,29 +38,29 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-security-txt](https://github.com/coralogix/dhall-security-txt)
 
 ## Libraries
-- [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall
-- [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
+- [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall.
+- [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 - [dhall-kong](https://github.com/RyanSiu1995/dhall-kong)
 - [dhall-terraform](https://github.com/blast-hardcheese/dhall-terraform) - Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.
-- [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall
-- [dada](https://github.com/sellout/dada) - Recursion schemes
-- [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions
-- [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions
-- [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops
-- [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator
-- [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions
-- [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl) - Generate a type-safe openssl configuration file with dhall
+- [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall.
+- [dada](https://github.com/sellout/dada) - Recursion schemes.
+- [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions.
+- [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for GitHub actions.
+- [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops.
+- [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator.
+- [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
+- [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl) - Generate a type-safe openssl configuration file with dhall.
 
 
 ## Projects
-- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
-- [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall
+- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
 
 ## Miscellaneous
-- [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall
-- [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code
-- [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom
-- [dhall-mode](https://github.com/psibi/dhall-mode) - Dhall language support in Emacs
+- [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
+- [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code.
+- [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom.
+- [dhall-mode](https://github.com/psibi/dhall-mode) - Dhall language support in Emacs.
 
 ## Contributing
 Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list!
