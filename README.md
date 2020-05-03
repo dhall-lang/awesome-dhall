@@ -2,7 +2,7 @@
 
 <div align="center">
     <div>
-        <img width="500" src="img/dhall-logo.png" alt="dhall-logo">
+        <img width="500" src="img/dhall-logo.svg" alt="dhall-logo">
     </div>
 </div>
 
