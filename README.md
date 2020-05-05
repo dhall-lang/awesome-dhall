@@ -50,7 +50,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator.
 - [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
 - [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl) - Generate a type-safe openssl configuration file with dhall.
-
+- [nats.dhall](https://github.com/wallyqs/nats.dhall) - Dhall types to setup NATS.io on Kubernetes.
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
