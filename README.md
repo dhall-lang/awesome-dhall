@@ -17,13 +17,14 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [Miscellaneous](#miscellaneous)
 
 ## Binding
-- [dhall-haskell](https://github.com/dhall-lang/dhall-haskell)
-- [dhall-eta](https://github.com/eta-lang/dhall-eta) - A eta wrapper of dhall-haskell with the goal of provide a friendly java api over dhall.
-- [dhall-clj](https://github.com/f-f/dhall-clj) - Dhall to and from Clojure.
-- [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript)
-- [dhall-rust](https://github.com/Nadrieril/dhall-rust)
-- [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby)
-- [dhall-python](https://github.com/SupraSummus/dhall-python)
+- [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Haskell language support.
+- [dhallj](https://github.com/travisbrown/dhallj) - Java language support.
+- [dhall-clj](https://github.com/f-f/dhall-clj) - Clojure language support.
+- [dhall-golang](https://github.com/philandstuff/dhall-golang) - Go language support.
+- [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript) - PureScript language support.
+- [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Rust language support.
+- [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby) - Ruby language support.
+- [dhall-python](https://github.com/SupraSummus/dhall-python) - Python language support.
 
 ## Integration
 - [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
