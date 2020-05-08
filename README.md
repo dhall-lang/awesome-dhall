@@ -52,6 +52,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
 - [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl) - Generate a type-safe openssl configuration file with dhall.
 - [nats.dhall](https://github.com/wallyqs/nats.dhall) - Dhall types to setup NATS.io on Kubernetes.
+- [dhall-ansible](https://github.com/TristanCacqueray/dhall-ansible) - Dhall types for Ansible.
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
