@@ -41,7 +41,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 ## Libraries
 - [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall.
 - [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall.
-- [dhall-kong](https://github.com/RyanSiu1995/dhall-kong)
+- [dhall-kong](https://github.com/RyanSiu1995/dhall-kong) - Dhall types definition for Kong declarative configuration file.
 - [dhall-terraform](https://github.com/blast-hardcheese/dhall-terraform) - Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.
 - [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall.
 - [dada](https://github.com/sellout/dada) - Recursion schemes.
