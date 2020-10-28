@@ -54,6 +54,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [nats.dhall](https://github.com/wallyqs/nats.dhall) - Dhall types to setup NATS.io on Kubernetes.
 - [dhall-ansible](https://github.com/TristanCacqueray/dhall-ansible) - Dhall types for Ansible.
 - [dhall-concourse](https://github.com/coralogix/dhall-concourse) - Dhall types for Concourse.
+- [dhall-dot](https://github.com/Gabriel439/dhall-dot) - Dhall types and renderer for the DOT Graph description language.
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
