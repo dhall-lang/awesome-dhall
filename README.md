@@ -24,7 +24,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript) - PureScript language support.
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Rust language support.
 - [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby) - Ruby language support.
-- [dhall-python](https://github.com/SupraSummus/dhall-python) - Python language support.
+- [dhall-python](https://github.com/s-zeng/dhall-python) - Python language support.
 
 ## Integration
 - [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
