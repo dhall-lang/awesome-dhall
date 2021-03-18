@@ -57,6 +57,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-concourse](https://github.com/coralogix/dhall-concourse) - Dhall types for Concourse.
 - [dhall-dot](https://github.com/Gabriel439/dhall-dot) - Dhall types and renderer for the DOT Graph description language.
 - [dhall-openstacksdk](https://github.com/softwarefactory-project/dhall-openstacksdk) - Dhall types for OpenStack clouds.yaml.
+- [dhall-nomad](https://github.com/seatgeek/dhall-nomad) - Dhall types for HashiCorp's Nomad job scheduler
 
 ## Projects
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
