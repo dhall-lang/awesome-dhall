@@ -32,7 +32,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Output Formats
 - [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json)
-- [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json)
+- [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-yaml)
 - [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal)
 - [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
 - [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash)
