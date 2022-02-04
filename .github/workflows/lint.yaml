@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1.0.0
-    - uses: docker://github/super-linter:v3
+    - uses: docker://github/super-linter:v4
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
