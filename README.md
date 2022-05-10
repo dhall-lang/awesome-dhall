@@ -48,6 +48,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) - Abstractions.
 - [vmchale/github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for GitHub actions.
 - [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your GitHub Action definitions with Dhall.
+- [bgamari/dhall-gitlab-ci](https://github.com/bgamari/dhall-gitlab-ci) - Dhall types for GitLab CI/CD.
 - [dhall-kops](https://github.com/coralogix/dhall-kops) - Dhall types for Kops.
 - [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) - Dhall types for the Prometheus Operator.
 - [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
