@@ -63,7 +63,6 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
 
 ## Projects
-- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
 
 ## Miscellaneous
