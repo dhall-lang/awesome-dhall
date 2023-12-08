@@ -65,6 +65,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
 - [updo](https://github.com/cabalism/updo) - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
+- [dhall-mock](https://github.com/dhall-mock/dhall-mock) - A HTTP mock server based on Dhall configuration.
 
 ## Miscellaneous
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
