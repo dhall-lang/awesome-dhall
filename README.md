@@ -61,6 +61,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-nomad](https://github.com/seatgeek/dhall-nomad) - Dhall types for HashiCorp's Nomad job scheduler
 - [dhall-aws-cloudformation](https://github.com/jcouyang/dhall-aws-cloudformation) - Dhall types for AWS CloudFormation
 - [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
+- [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
