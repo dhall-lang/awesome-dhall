@@ -63,6 +63,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
 - [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
 - [dhall-css-color](https://gitlab.com/toastal/dhall-css-color) - CSS4 colors.
+- [dhall-semver](https://github.com/Gabriella439/dhall-semver) - Dhall support for [semantic version numbers](https://semver.org/).
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
