@@ -8,6 +8,10 @@
     "comments": true
   },
   "rules": {
-    "terminology": true
+    "terminology": true,
+    "period-in-list-item": {
+         "periodMark": ".",
+         "ignoreLinkEnd": true
+    }
   }
 }
