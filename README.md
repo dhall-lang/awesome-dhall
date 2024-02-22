@@ -36,7 +36,6 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal)
 - [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
 - [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash)
-- [dhall-security-txt](https://github.com/coralogix/dhall-security-txt)
 
 ## Libraries
 - [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall.
@@ -64,6 +63,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
 - [dhall-css-color](https://gitlab.com/toastal/dhall-css-color) - CSS4 colors.
 - [dhall-semver](https://github.com/Gabriella439/dhall-semver) - Dhall support for [semantic version numbers](https://semver.org/).
+- [dhall-security-txt](https://github.com/coralogix/dhall-security-txt) - Generate standard-compliant [security.txt](https://securitytxt.org/) files using Dhall.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
