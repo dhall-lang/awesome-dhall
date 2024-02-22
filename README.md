@@ -14,7 +14,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [Output Formats](#output-formats)
 - [Libraries](#libraries)
 - [Projects](#projects)
-- [Miscellaneous](#miscellaneous)
+- [Text Editor Support](#text-editor-support)
 
 ## Binding
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Haskell language support.
@@ -70,7 +70,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [updo](https://github.com/cabalism/updo) - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
 - [dhall-mock](https://github.com/dhall-mock/dhall-mock) - A HTTP mock server based on Dhall configuration.
 
-## Miscellaneous
+## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
 - [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code.
 - [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom.
