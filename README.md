@@ -69,6 +69,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-semver](https://github.com/Gabriella439/dhall-semver) - Dhall support for [semantic version numbers](https://semver.org/).
 - [dhall-security-txt](https://github.com/coralogix/dhall-security-txt) - Generate standard-compliant [security.txt](https://securitytxt.org/) files using Dhall.
 - [dhall-grafana](https://github.com/weeezes/dhall-grafana) - Build Grafana dashboards with Dhall.
+- [dhall-docker-compose](https://github.com/sbdchd/dhall-docker-compose) - A library for writing Docker Compose files in Dhall.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
