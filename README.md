@@ -38,6 +38,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix)
 - [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash)
 - [dhall-toml](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-toml)
+- [dhall-csv](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-csv)
 
 ## Libraries
 - [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) - Standard Libraries for dhall.
