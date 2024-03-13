@@ -82,6 +82,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code.
 - [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom.
 - [dhall-mode](https://github.com/psibi/dhall-mode) - Dhall language support in Emacs.
+- [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) - Language Server Protocol server for Dhall.
 
 ## Contributing
 Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list!
