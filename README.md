@@ -72,6 +72,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-docker-compose](https://github.com/sbdchd/dhall-docker-compose) - A library for writing Docker Compose files in Dhall.
 - [dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile) - Dhall types for Containerfile.
 - [dhall-resume](https://github.com/gaelreyrol/dhall-resume) - Dhall bindings to the [JSON Resume](https://jsonresume.org) schema.
+- [dhall-prometheus](https://github.com/softwarefactory-project/dhall-prometheus) - Dhall bindings to Prometheus configuration.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
