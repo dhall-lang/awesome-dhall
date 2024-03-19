@@ -74,6 +74,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-resume](https://github.com/gaelreyrol/dhall-resume) - Dhall bindings to the [JSON Resume](https://jsonresume.org) schema.
 - [dhall-prometheus](https://github.com/softwarefactory-project/dhall-prometheus) - Dhall bindings to Prometheus configuration.
 - [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) - Dhall bindings for Semaphore CI.
+- [dhall-spinnaker](https://github.com/zendesk/dhall-spinnaker) - Dhall bindings to the Spinnaker Pipeline API.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
