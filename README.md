@@ -80,6 +80,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
 - [updo](https://github.com/cabalism/updo) - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
 - [dhall-mock](https://github.com/dhall-mock/dhall-mock) - A HTTP mock server based on Dhall configuration.
+- [approportionment](https://github.com/akazukin5151/approportionment) - [Yee diagram](https://electowiki.org/wiki/Yee_diagram) generator for multi-winner electoral methods designed for proportional representation, configured with Dhall.
 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
