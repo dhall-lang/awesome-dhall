@@ -84,6 +84,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [approportionment](https://github.com/akazukin5151/approportionment) - [Yee diagram](https://electowiki.org/wiki/Yee_diagram) generator for multi-winner electoral methods designed for proportional representation, configured with Dhall.
 - [podenv](https://github.com/podenv/podenv) - A container runtime wrapper using Dhall to define functional environments.
 - [animation-fractal](https://gitlab.com/TristanCacqueray/animation-fractal) - A graphic engine using Dhall to define demos, see the [Using Dhall To Animate Fractal](https://tristancacqueray.github.io/blog/using-dhall-to-animate-fractal) blog post.
+- [cv-static](https://github.com/mstksg/cv-static) - Generate CV in HTML and PDF using Dhall.
 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
