@@ -87,7 +87,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [animation-fractal](https://gitlab.com/TristanCacqueray/animation-fractal) - A graphic engine using Dhall to define demos, see the [Using Dhall To Animate Fractal](https://tristancacqueray.github.io/blog/using-dhall-to-animate-fractal) blog post.
 - [cv-static](https://github.com/mstksg/cv-static) - Generate CV in HTML and PDF using Dhall.
 - [resume](https://github.com/s-zeng/resume) - Generate résumé in a number of formats from a Dhall specification.
-- 
+
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
 - [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code.
