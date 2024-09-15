@@ -26,6 +26,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby) - Ruby language support.
 - [dhall-python](https://github.com/s-zeng/dhall-python) - Python language support.
 - [dhall-unison](https://github.com/hagl/dhall-unison) - Unison language support.
+- [scall](https://github.com/winitzki/scall) - Scala language support.
 
 ## Integration
 - [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
