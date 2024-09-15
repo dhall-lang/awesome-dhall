@@ -26,6 +26,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby) - Ruby language support.
 - [dhall-python](https://github.com/s-zeng/dhall-python) - Python language support.
 - [dhall-unison](https://github.com/hagl/dhall-unison) - Unison language support.
+- [scall](https://github.com/winitzki/scall) - Scala language support.
 
 ## Integration
 - [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
@@ -84,8 +85,9 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [approportionment](https://github.com/akazukin5151/approportionment) - [Yee diagram](https://electowiki.org/wiki/Yee_diagram) generator for multi-winner electoral methods designed for proportional representation, configured with Dhall.
 - [podenv](https://github.com/podenv/podenv) - A container runtime wrapper using Dhall to define functional environments.
 - [animation-fractal](https://gitlab.com/TristanCacqueray/animation-fractal) - A graphic engine using Dhall to define demos, see the [Using Dhall To Animate Fractal](https://tristancacqueray.github.io/blog/using-dhall-to-animate-fractal) blog post.
+- [cv-static](https://github.com/mstksg/cv-static) - Generate CV in HTML and PDF using Dhall.
 - [resume](https://github.com/s-zeng/resume) - Generate résumé in a number of formats from a Dhall specification.
-
+- 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
 - [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) - Dhall Syntax Highlighting for VS Code.
