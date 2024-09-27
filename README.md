@@ -97,7 +97,6 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) - Language Server Protocol server for Dhall.
 
 ## Miscellaneous
-
 - [relude](https://github.com/kowainik/relude/tree/main/hlint) - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
 
 ## Contributing
