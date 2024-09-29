@@ -96,6 +96,9 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-mode](https://github.com/psibi/dhall-mode) - Dhall language support in Emacs.
 - [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) - Language Server Protocol server for Dhall.
 
+## Miscellaneous
+- [relude](https://github.com/kowainik/relude/tree/main/hlint) - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
+
 ## Contributing
 Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list!
 Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull request.
