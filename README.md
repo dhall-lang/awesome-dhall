@@ -88,7 +88,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [cv-static](https://github.com/mstksg/cv-static) - Generate CV in HTML and PDF using Dhall.
 - [resume](https://github.com/s-zeng/resume) - Generate résumé in a number of formats from a Dhall specification.
 - [RuneSlayer](https://github.com/MaxOw/RuneSlayer) - A role-playing game meant to help learning a natural language.
-- [Xe/site](https://github.com/Xe/site) - a [private website](https://xeiaso.net) using Dhall in a substantial way.
+- [Xe/site](https://github.com/Xe/site) - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
