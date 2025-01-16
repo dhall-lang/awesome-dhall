@@ -27,6 +27,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-python](https://github.com/s-zeng/dhall-python) - Python language support.
 - [dhall-unison](https://github.com/hagl/dhall-unison) - Unison language support.
 - [scall](https://github.com/winitzki/scall) - Scala language support.
+- [idrall](https://github.com/alexhumphreys/idrall) - Idris language support.
 
 ## Integration
 - [dhall-rails](https://git.sr.ht/~singpolyma/dhall-rails)
@@ -88,6 +89,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [cv-static](https://github.com/mstksg/cv-static) - Generate CV in HTML and PDF using Dhall.
 - [resume](https://github.com/s-zeng/resume) - Generate résumé in a number of formats from a Dhall specification.
 - [RuneSlayer](https://github.com/MaxOw/RuneSlayer) - A role-playing game meant to help learning a natural language.
+- [Xe/site](https://github.com/Xe/site) - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 - [grafdhall](https://github.com/softwarefactory-project/grafdhall) - Takes Grafana dashboards in Dhall format, and submits them to a Grafana service.
 
 ## Text Editor Support
