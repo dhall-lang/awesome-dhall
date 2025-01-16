@@ -90,6 +90,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [resume](https://github.com/s-zeng/resume) - Generate résumé in a number of formats from a Dhall specification.
 - [RuneSlayer](https://github.com/MaxOw/RuneSlayer) - A role-playing game meant to help learning a natural language.
 - [Xe/site](https://github.com/Xe/site) - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+- [grafdhall](https://github.com/softwarefactory-project/grafdhall) - Takes Grafana dashboards in Dhall format, and submits them to a Grafana service.
 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
