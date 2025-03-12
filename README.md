@@ -100,6 +100,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [atom-language-dhall](https://github.com/jmitchell/atom-language-dhall) - Dhall language support in Atom.
 - [dhall-mode](https://github.com/psibi/dhall-mode) - Dhall language support in Emacs.
 - [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) - Language Server Protocol server for Dhall.
+- [dhall-sublime-syntax-highlighting](https://github.com/kukimik/dhall-sublime-syntax-highlighting) - Dhall syntax highlighting for Sublime Text.
 
 ## Miscellaneous
 - [relude](https://github.com/kowainik/relude/tree/main/hlint) - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
