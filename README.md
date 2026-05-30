@@ -80,6 +80,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-sgf](https://github.com/TristanCacqueray/dhall-sgf) - Dhall support for the Smart Game Format.
 - [dhall-rook](https://github.com/jbellerb/dhall-rook) - Dhall bindings for [Rook](https://rook.io/).
 - [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) Haskell source code formatter.
+- [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) - Dhall types for [awsdac](https://github.com/awslabs/diagram-as-code) to define AWS architecture diagrams as code.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
