@@ -94,6 +94,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [RuneSlayer](https://github.com/MaxOw/RuneSlayer) - A role-playing game meant to help learning a natural language.
 - [Xe/site](https://github.com/Xe/site) - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 - [grafdhall](https://github.com/softwarefactory-project/grafdhall) - Takes Grafana dashboards in Dhall format, and submits them to a Grafana service.
+- [hpack-dhall](https://github.com/cabalism/hpack-dhall) - Convert Haskell package descriptions in Dhall to the Cabal format.
 
 ## Text Editor Support
 - [dhall-vim](https://github.com/vmchale/dhall-vim) - Syntax highlighting in Vim for Dhall.
