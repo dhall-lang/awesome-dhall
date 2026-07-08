@@ -8,6 +8,8 @@
     "comments": true
   },
   "rules": {
-    "terminology": true
+    "terminology": {
+      "skip": ["BlockQuote", "Link"]
+    }
   }
 }
