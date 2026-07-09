@@ -83,6 +83,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) to define AWS architecture diagrams as code.
 - [dhall-html](https://github.com/fjij/dhall-html) - Dhall library for generating HTML.
 - [dhall-css](https://github.com/fjij/dhall-css) - Dhall library for generating CSS.
+- [dhall-text-utils](https://github.com/kukimik/dhall-text-utils) - Utilities for validating and modifying Text values.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
