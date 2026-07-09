@@ -82,6 +82,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 - [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) Haskell source code formatter.
 - [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) to define AWS architecture diagrams as code.
 - [dhall-html](https://github.com/fjij/dhall-html) - Dhall library for generating HTML.
+- [dhall-css](https://github.com/fjij/dhall-css) - Dhall library for generating CSS.
 
 ## Projects
 - [cpkg](https://github.com/vmchale/cpkg) - A build tool/package manager for C, configured with Dhall.
