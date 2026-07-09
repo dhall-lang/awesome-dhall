@@ -1,7 +1,7 @@
 {
   "rules": {
     "terminology": {
-      "skip": ["BlockQuote", "Link"]
+      "skip": ["Link"]
     }
   }
 }
