@@ -1,13 +1,7 @@
 {
-  "filters": {
-    "allowlist": {
-      "allow": [
-        "dhall-css-color"
-      ]
-    },
-    "comments": true
-  },
   "rules": {
-    "terminology": true
+    "terminology": {
+      "skip": ["Link"]
+    }
   }
 }
